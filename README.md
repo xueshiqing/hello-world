@@ -1,3 +1,3 @@
 # hello-world
 
-I like Java!
+I like Python!
